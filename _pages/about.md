@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Xu Han"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
