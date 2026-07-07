@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-My curriculum vitae is available here: [Download PDF]({{ base_path }}/files/Xu_Han_CV.pdf).
+My curriculum vitae is available here: [Download PDF]({{ base_path }}/files/Curriculum_Vitae.pdf).
